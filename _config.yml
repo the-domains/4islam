@@ -1,30 +1,28 @@
-typography_spectrum: 0.86861
-color:
-  brandColors:
-    - '#ffffff'
-    - '#006666'
-    - '#a7caca'
-    - '#6fa8a8'
-    - '#009634'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.57975
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/705dca48-71d9-4f85-817a-70f0e670f468.png
 name: 4islam
+favicon: null
+layout_spectrum: 0.0772948490921408
+typography_spectrum: 0.6997079802677035
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7390383335296065
+  lightness: 0.8841140950098634
+  saturation: 0.6975439044181257
+  rhythmicContrast: 0.8945411846507341
 purpose: []
