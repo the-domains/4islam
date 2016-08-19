@@ -1,0 +1,28 @@
+name: 4islam
+favicon: null
+layout_spectrum: 0.57975
+typography_spectrum: 0.86861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#006666'
+    - '#a7caca'
+    - '#6fa8a8'
+    - '#009634'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
